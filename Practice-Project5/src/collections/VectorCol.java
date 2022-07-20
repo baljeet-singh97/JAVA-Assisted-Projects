@@ -1,4 +1,4 @@
-//differnece between array list and vector		
+//differnece between array list and vector		 
 // 1. arraylist is not synchronized but vector is synchronised
 // 2. array list is not alegacy class. it was introduced in JDK12 but vector is legacy class
 // 3. arraylist is fast because it is not synchronized but vector is slow becuase it is synchronised
