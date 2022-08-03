@@ -40,7 +40,7 @@ public class LoginServlet extends HttpServlet {
         }
      
         else {
-           resp.sendRedirect("Login.html");
+     
         	
     		
             RequestDispatcher rd = req.getRequestDispatcher("/Login.html");
