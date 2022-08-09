@@ -23,7 +23,6 @@ public class HibernateUtils {
 			
 		}catch (Exception e) {
 			// TODO: handle exception
-			System.out.print("in hibernateutils.jva ");
 			e.printStackTrace();
 		}
 		
