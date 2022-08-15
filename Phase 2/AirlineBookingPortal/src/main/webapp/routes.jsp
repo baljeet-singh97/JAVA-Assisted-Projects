@@ -22,7 +22,7 @@
   				<option value="Delhi">Delhi</option>
   				<option value="Jaipur">Jaipur</option>
   				<option value="Mumbai">Mumbai</option>
-  				<option value="Punjab">Punjab</option>
+  	
   				<option value="Pune">Pune</option>
 			</select>  
 			
@@ -35,7 +35,7 @@
   				<option value="Delhi">Delhi</option>
   				<option value="Jaipur">Jaipur</option>
   				<option value="Mumbai">Mumbai</option>
-  				<option value="Punjab">Punjab</option>
+  				
   				<option value="Pune">Pune</option>
 			</select> 
 			
