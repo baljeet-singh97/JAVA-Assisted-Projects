@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 9,
+      "firstName": "ankit",
+      "lastName": "sindu",
+      "email": "ankit@gmail.com",
+      "mobile": "123456780",
+      "salary": "60000"
+    },
+    {
+      "id": 10,
+      "firstName": "baljeet@gmail.com",
+      "lastName": "baljeet@gmail.com",
+      "email": "baljeet@gmail.com",
+      "mobile": "9782138915",
+      "salary": "444"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
