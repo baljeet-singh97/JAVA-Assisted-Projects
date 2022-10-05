@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DeployApplication/src/main/java"/>
+	<classpathentry kind="src" path="DeployApplication/src/test/java"/>
+	<classpathentry kind="lib" path="DeployApplication/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="DeployApplication/target/DeployApplication-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="DeployApplication/target/classes"/>
+</classpath>
