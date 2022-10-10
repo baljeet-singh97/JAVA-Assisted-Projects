@@ -24,7 +24,7 @@ public class FacebookLogin {
 	@BeforeMethod
 	public void beforeMethod() {
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\princ\\eclipse-workspace\\Phase 5\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\princ\\eclipse-workspace\\Phase-5\\chromedriver_win32\\chromedriver.exe");
 		driver= new ChromeDriver();
 	}
 	@AfterMethod
